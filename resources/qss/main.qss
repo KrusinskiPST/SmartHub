@@ -1,0 +1,52 @@
+QFrame#iconPanel {
+    background-position: top;
+    border-radius: 8px;
+    border: 1px solid rgba(202, 202, 202, 200);
+}
+QFrame#content{
+    background-color: rgba(73, 73, 73, 180);
+    border-radius: 18px;
+}
+QLabel#Label{
+    font-size:15px;
+    padding-bottom:10px;
+}
+QPushButton {
+    border-radius: 25px;
+    padding:10px;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+QPushButton:hover {
+    background-color: rgba(187, 187, 187, 154);
+}
+
+QPushButton:pressed {
+    background-color: rgba(124, 124, 124, 133);
+}
+
+QPushButton#home{
+    background-color: rgba(124, 124, 124, 133);
+}
+#add_panel{
+    background-color: rgba(255, 0, 0, 255);
+}
+#add{
+    background-color: blue;
+}
+#list{
+    background-color: green;
+}
+#user{
+    background-color: rgba(0, 204, 255, 255);
+}
+#settings{
+    background-color: rgba(165, 2, 151, 255);
+}
+QLineEdit{
+    background-color: #56e9e7e7;
+    height: 24px;
+    font-size: 17px;
+    color: rgba(0, 0, 0, 255);
+}
