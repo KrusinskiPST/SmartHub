@@ -1,2 +1,2 @@
-# SmartHub
-Hub to controls local iot's
+# SmartHub 0.0.1
+
